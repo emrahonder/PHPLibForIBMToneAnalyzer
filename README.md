@@ -6,4 +6,6 @@ https://www.ibm.com/watson/developercloud/tone-analyzer/api/v3/#introduction
 This library allows to connect this service easily.
 
 # Usage
-Firstly 
+Firstly from IBM Bluemix panel, username and password should be taken. 
+Then ibm_tone_analyzer.php file should be imported to your PHP lib.
+require 'ibm_tone_analyzer.php';
