@@ -10,7 +10,7 @@
 	<?php
 		require 'ibm_tone_analyzer.php';
 							
-		$IBMTone = new IBMTone("25321bef-e768-4ac8-bb7f-175e04b7931e","FREbHcn226N7");
+		$IBMTone = new IBMTone("[USERNAME]","[PASSWORD]");
 		echo '<pre>$IBMTone = new IBMTone("[USERNAME]","[PASSWORD]");</pre>';
 	?>
 		<h2>Sample for "Analyze general tone" </h2>
